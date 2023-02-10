@@ -1,6 +1,6 @@
 # slidev-monorepo
 
-A template for a Turborepo with two slidev presentations that share dependencies. The purpose of this template is to make available multiple slidev presentations on one domain.
+A template for a Turborepo with multiple slidev presentations that share dependencies.
 
 ## Install
 
