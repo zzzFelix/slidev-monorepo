@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "build": "slidev build --base /talk2/ --out ../../dist/talk2",
-    "dev": "slidev --open",
+    "dev": "slidev --open --port=3040",
     "export": "slidev export"
   },
   "dependencies": {
