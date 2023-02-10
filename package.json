@@ -7,7 +7,7 @@
     "packages/*"
   ],
   "scripts": {
-    "build": "turbo run build && cp apps/index.html dist/index.html",
+    "build": "turbo run build",
     "dev": "turbo run dev"
   },
   "devDependencies": {
