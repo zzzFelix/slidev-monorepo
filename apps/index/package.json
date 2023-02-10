@@ -1,0 +1,7 @@
+{
+    "name": "index",
+    "private": true,
+    "scripts": {
+      "build": "cp index.html ../../dist/index.html || copy index.html ../../dist/index.html"
+    }
+  }
